@@ -4,7 +4,7 @@ Welcome to the VRChat Meowscarada Avis project! This repository is meant to cata
 
 ## 📋 Avatar Catalogue
 
-| Avatar Name | Creator | Link |
+| Avatar Type | Creator | Link |
 |---|---|---|
 | [Meowscarada] | [Rarijopa] | [Link](https://booth.pm/en/items/6796970) |
 | [Meowscarada] | [BizyMouse] | [Link](https://bizymouse.gumroad.com/l/meow) |
