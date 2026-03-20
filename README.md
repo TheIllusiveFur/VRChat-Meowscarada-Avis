@@ -6,16 +6,16 @@ Welcome to the VRChat Meowscarada Avis project! This repository is meant to cata
 
 | Avatar Name | Creator | Link |
 |---|---|---|
-| [Meowscarada] | [Creator Name] | [Link](https://booth.pm/en/items/6796970) |
-| [Meowscarada] | [Creator Name] | [Link](https://bizymouse.gumroad.com/l/meow) |
-| [Meowscarada] | [Creator Name] | [Link](https://booth.pm/en/items/5373021) |
-| [Meowscarada] | [Creator Name] | [Link](https://payhip.com/b/rEspM) |
-| [Meowscarada] | [Creator Name] | [Link](https://payhip.com/b/5vZiH) |
-| [Meowscarada] | [Creator Name] | [Link](https://payhip.com/b/KDohL) |
-| [Meowscarada] | [Creator Name] | [Link](https://rgw.gumroad.com/l/IbirianLynxVR?layout=profile) |
-| [Meowscarada] | [Creator Name] | [Link](https://booth.pm/en/items/4384457) |
-| [Meowscarada] | [Creator Name] | [Link](https://hitmarker.gumroad.com/l/weedcat) |
-| [Floragato] | [Creator Name] | [Link](https://jinxxy.com/RoseBursyoji/SmolLynx) |
+| [Meowscarada] | [Rarijopa] | [Link](https://booth.pm/en/items/6796970) |
+| [Meowscarada] | [BizyMouse] | [Link](https://bizymouse.gumroad.com/l/meow) |
+| [Meowscarada] | [Yumily16] | [Link](https://booth.pm/en/items/5373021) |
+| [Meowscarada] | [Nareha] | [Link](https://payhip.com/b/rEspM) |
+| [Meowscarada] | [SirDio] | [Link](https://payhip.com/b/5vZiH) |
+| [Meowscarada] | [Zy0n7] | [Link](https://payhip.com/b/KDohL) |
+| [Meowscarada] | [Rose Garden] | [Link](https://rgw.gumroad.com/l/IbirianLynxVR?layout=profile) |
+| [Meowscarada] | [Kemonoroo] | [Link](https://booth.pm/en/items/4384457) |
+| [Meowscarada] | [The Hitbox] | [Link](https://hitmarker.gumroad.com/l/weedcat) |
+| [Floragato] | [Rose Bursyoji] | [Link](https://jinxxy.com/RoseBursyoji/SmolLynx) |
 
 ---
 
@@ -27,9 +27,8 @@ Please help me catalog Meowscarada avis by sending links to ones available to bu
 
 ## 📊 Statistics
 
-**Total Avatars Catalogued:** [Update as you add more]
-
-**Total Contributors:** [Track this as submissions come in]
+**Total Avatars Catalogued:*10* 
+**Total Contributors:*0*
 
 ---
 
