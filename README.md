@@ -6,16 +6,16 @@ Welcome to the VRChat Meowscarada Avis project! This repository is meant to cata
 
 | Avatar Name | Creator | Description | Status | Link |
 |---|---|---|---|---|
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://booth.pm/en/items/6796970) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://bizymouse.gumroad.com/l/meow) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://booth.pm/en/items/5373021) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://payhip.com/b/rEspM) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://payhip.com/b/5vZiH) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://payhip.com/b/KDohL) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://rgw.gumroad.com/l/IbirianLynxVR?layout=profile) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://booth.pm/en/items/4384457) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://hitmarker.gumroad.com/l/weedcat) |
-| [Name] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://jinxxy.com/RoseBursyoji/SmolLynx) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://booth.pm/en/items/6796970) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://bizymouse.gumroad.com/l/meow) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://booth.pm/en/items/5373021) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://payhip.com/b/rEspM) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://payhip.com/b/5vZiH) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://payhip.com/b/KDohL) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://rgw.gumroad.com/l/IbirianLynxVR?layout=profile) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://booth.pm/en/items/4384457) |
+| [Meowscarada] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://hitmarker.gumroad.com/l/weedcat) |
+| [Floragato] | [Creator Name] | [Brief description] | [Complete/WIP] | [Link](https://jinxxy.com/RoseBursyoji/SmolLynx) |
 
 ---
 
