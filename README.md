@@ -27,9 +27,9 @@ Please help me catalog Meowscarada avis by sending links to ones available to bu
 
 ## 📊 Statistics
 
-**Total Avatars Catalogued:*10* 
+**Total Avatars Catalogued: *10* 
 
-**Total Contributors:*0*
+**Total Contributors: *0*
 
 ---
 
