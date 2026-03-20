@@ -23,13 +23,18 @@ Welcome to the VRChat Meowscarada Avis project! This repository is meant to cata
 
 Please help me catalog Meowscarada avis by sending links to ones available to buy. If you rig non VRC ready avatars submit those along with your rigged edits of them.
 
+You can submit avatars by:
+- Opening a GitHub issue in this repository
+- Messaging me on Discord: **dio_brando4**
+- Messaging me on Twitter: **@dickrich0069**
+
 ---
 
 ## 📊 Statistics
 
-**Total Avatars Catalogued: *10* 
+**Total Avatars Catalogued:** 10
 
-**Total Contributors: *0*
+**Total Contributors:** 0
 
 ---
 
